@@ -2,7 +2,10 @@
 MultiMixEmu
 -----------
 
-Multi Mix Emulator (Version 1.00) (Not Public Yet)
+Multi Mix Emulator
+
+(Version 1.00) (Not Public Yet)
+
 © 2018 GECA soft.
 
 A Multi Platform Emulator made in C#.
