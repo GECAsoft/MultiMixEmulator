@@ -14,8 +14,9 @@ features and include new platforms.
 Also the 'Mix' prefix indicates not only try to emulates original platforms, but also add new features to
 original games and other Tools, like an internal Game Music Player.
 
-
+--------------------------------------------------------
 'Platforms / Implementation Status' currently supported:
+--------------------------------------------------------
 
 -------
 Arcade:
