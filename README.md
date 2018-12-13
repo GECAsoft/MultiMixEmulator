@@ -2,7 +2,8 @@
 MultiMixEmu
 -----------
 
-Multi Mix Emulator
+Multi Mix Emulator (Version 1.00) (Not Public Yet)
+© 2018 GECA soft.
 
 A Multi Platform Emulator made in C#.
 The goal of this emulator is to emulate several platforms using 100% C# Code.
@@ -33,28 +34,43 @@ Final Fight Arcade Version with Final Fight CD (Sega MegaCD) Soundtrack (40 %)
 Computers:
 ----------
 
-Amstrad CPC (50 %)
-Apple II (70 %)
-Commodore 64 (50 %)
-ZKSpectrum (70 %)
+Amstrad CPC (50 %) (Executing Games: NO)
+
+Apple II (70 %) (Executing Games: NO)
+
+Commodore 64 (50 %) (Executing Games: NO)
+
+ZKSpectrum (70 %) (Executing Games: NO)
 
 ---------
 Consoles:
 ---------
 
-Game Boy (80 %)
-Game Gear (95 %)
-Master System (95 %)
-Mega Drive (70 %)
-NES (99 %)
-Nintendo 64 (1 %)
-PC Engine (90 %)
-SC-3000 (95 %)
-SG-1000 (95 %)
-SNES (95 %)
-3DO (90 %)
-Playstation (1 %)
-Sega Saturn (30 %)
+Game Boy (80 %) (Executing Games: NO)
+
+Game Gear (95 %) (Executing Games: YES)
+
+Master System (95 %) (Executing Games: YES)
+
+Mega Drive (70 %) (Executing Games: NO)
+
+NES (99 %) (Executing Games: YES)
+
+Nintendo 64 (1 %) (Executing Games: NO)
+
+PC Engine (90 %) (Executing Games: YES)
+
+SC-3000 (95 %) (Executing Games: YES)
+
+SG-1000 (95 %) (Executing Games: YES)
+
+SNES (95 %) (Executing Games: YES / Too Slow)
+
+3DO (90 %) (Executing Games: YES)
+
+Playstation (1 %) (Executing Games: NO)
+
+Sega Saturn (30 %) (Executing Games: NO)
 
 
 
