@@ -1,0 +1,74 @@
+-----------
+MultiMixEmu
+-----------
+
+Multi Mix Emulator
+
+A Multi Platform Emulator made in C#.
+The goal of this emulator is to emulate several platforms using 100% C# Code.
+Currently it use 90% C# and 10% C++ Code, the goal is translate all to C# Code.
+
+Multi Mix Emulator currently emulates several platforms and the objective is to improve systems emulation,
+features and include new platforms.
+
+Also the 'Mix' prefix indicates not only try to emulates orginal platforms, but also add new features to
+original games and other Tools, like an internal Game Music Player.
+
+
+'Platforms / Implementation Status' currently supported:
+
+-------
+Arcade:
+-------
+
+Arcade Games (CPS 1 / Namco System 1 / and more than 90 other Arcade Systems) (70 %)
+Arcade Music Player (CPS 1 / CPS 2 / Neo Geo / Namco System 1) (90 %)
+
+Mix Features:
+Final Fight Arcade Version with Final Fight CD (Sega MegaCD) Soundtrack (40 %)
+
+----------
+Computers:
+----------
+
+Amstrad CPC (50 %)
+Apple II (70 %)
+Commodore 64 (50 %)
+ZKSpectrum (70 %)
+
+---------
+Consoles:
+---------
+
+Game Boy (80 %)
+Game Gear (95 %)
+Master System (95 %)
+Mega Drive (70 %)
+NES (99 %)
+Nintendo 64 (1 %)
+PC Engine (90 %)
+SC-3000 (95 %)
+SG-1000 (95 %)
+SNES (95 %)
+3DO (90 %)
+Playstation (1 %)
+Sega Saturn (30 %)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
