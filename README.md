@@ -23,6 +23,7 @@ Arcade:
 -------
 
 Arcade Games (CPS 1 / Namco System 1 / and more than 90 other Arcade Systems) (70 %)
+
 Arcade Music Player (CPS 1 / CPS 2 / Neo Geo / Namco System 1) (90 %)
 
 Mix Features:
