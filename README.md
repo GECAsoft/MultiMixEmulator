@@ -11,7 +11,7 @@ Currently it use 90% C# and 10% C++ Code, the goal is translate all to C# Code.
 Multi Mix Emulator currently emulates several platforms and the objective is to improve systems emulation,
 features and include new platforms.
 
-Also the 'Mix' prefix indicates not only try to emulates orginal platforms, but also add new features to
+Also the 'Mix' prefix indicates not only try to emulates original platforms, but also add new features to
 original games and other Tools, like an internal Game Music Player.
 
 
