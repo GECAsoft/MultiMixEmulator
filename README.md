@@ -2,7 +2,7 @@
 MultiMixEmu
 -----------
 
-[img]https://imgur.com/a/zoYGwgQ[/img]
+[img]https://imgur.com/a/zoYGwgQ[\img]
 
 Multi Mix Emulator
 
