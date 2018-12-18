@@ -3,7 +3,7 @@ MultiMixEmu
 -----------
 
 <p align="center">
-  <img src="imgur.com/a/zoYGwgQ" >
+  <img src="https://i.imgur.com/xoTUO87.jpg" >
 </p>
 
 
