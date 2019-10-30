@@ -11,7 +11,7 @@ Multi Mix Emulator
 
 (Version 1.00) (Not Public Yet)
 
-© 2018 GECA soft.
+© 2018-2019 GECA soft.
 
 A Multi Platform Emulator made in C#.
 The goal of this emulator is to emulate several platforms using 100% C# Code.
@@ -48,13 +48,29 @@ Apple II (70 %) (Executing Games: NO)
 
 Commodore 64 (50 %) (Executing Games: NO)
 
+Sharp X68000 (70 %) (Executing Games: NO)
+
 ZKSpectrum (70 %) (Executing Games: NO)
+
+TI83 (70 %) (Executing Games: NO)
 
 ---------
 Consoles:
 ---------
 
+Atari 7800 (80 %) (Executing Games: NO)
+ 
+Atari Lynx (80 %) (Executing Games: NO)
+
+Intellivision (70 %) (Executing Games: NO)
+
+Colecovision (70 %) (Executing Games: NO)
+  
 Game Boy (80 %) (Executing Games: NO)
+
+Game Boy Color (80 %) (Executing Games: NO)
+
+Game Boy Advance (80 %) (Executing Games: NO)
 
 Game Gear (95 %) (Executing Games: YES)
 
@@ -62,11 +78,15 @@ Master System (95 %) (Executing Games: YES)
 
 Mega Drive (70 %) (Executing Games: NO)
 
+Neo Geo Pocket (90 %) (Executing Games: NO)
+
 NES (99 %) (Executing Games: YES)
 
-Nintendo 64 (1 %) (Executing Games: NO)
+Nintendo 64 (70 %) (Executing Games: NO)
 
 PC Engine (90 %) (Executing Games: YES)
+
+PC FX (70 %) (Executing Games: NO)
 
 SC-3000 (95 %) (Executing Games: YES)
 
@@ -76,11 +96,21 @@ SNES (95 %) (Executing Games: YES / Too Slow)
 
 3DO (90 %) (Executing Games: YES)
 
-Playstation (1 %) (Executing Games: NO)
+Playstation (60 %) (Executing Games: NO)
 
-Sega Saturn (30 %) (Executing Games: NO)
+PSP (70 %) (Executing Games: NO)
 
+Sega Saturn (70 %) (Executing Games: NO)
 
+Magnavox Odyssey (70 %) (Executing Games: NO)
+
+Wonderswan (70 %) (Executing Games: NO)
+
+Uzebox (70 %) (Executing Games: NO)
+
+Vectrex (80 %) (Executing Games: NO)
+
+Virtual Boy (80 %) (Executing Games: NO)
 
 
 
