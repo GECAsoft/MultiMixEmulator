@@ -5,7 +5,7 @@ MultiMixEmu
 <p align="center">
   <img src="https://i.imgur.com/xoTUO87.jpg" >
   
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Wpehura0OHc" allowfullscreen></iframe>
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Wpehura0OHc/0.jpg)](https://www.youtube.com/watch?v=Wpehura0OHc)
 </p>
 
 
