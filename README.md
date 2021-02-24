@@ -5,7 +5,9 @@ MultiMixEmu
 <p align="center">
   <img src="https://i.imgur.com/xoTUO87.jpg" >
   
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Wpehura0OHc/0.jpg)](https://www.youtube.com/watch?v=Wpehura0OHc)
+  Multi Mix Emu - Alpha Tests (24-02-21)
+  
+  [![Multi Mix Emu - Alpha Tests (24-02-21)](https://img.youtube.com/vi/Wpehura0OHc/0.jpg)](https://www.youtube.com/watch?v=Wpehura0OHc)
 </p>
 
 
