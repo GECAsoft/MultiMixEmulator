@@ -6,8 +6,7 @@ MultiMixEmu
   <img src="https://i.imgur.com/xoTUO87.jpg" >
 </p>
 
-https://www.youtube.com/watch?v=Wpehura0OHc
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wpehura0OHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Multi Mix Emulator
 
