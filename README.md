@@ -59,11 +59,13 @@ Arcade:
 -------
 
 Arcade Games: C# Core (CPS 1 / CPS 2 / Data East / M72 / M92 / Namco System 1 / NEO GEO / PGM / Taito / Technos / Tehkan and a lot of other Arcade Systems) (70 %)
+
 Arcade Games: C++ Core --> MAME full implementation core (70 %)
 
 Universal Music Player: Arcade and different File formats (CPS 1 / CPS 2 / Data East / M72 / M92 / Namco System 1 / NEO GEO / PGM / Taito) (60 %)
 
 Mix Features:
+
 Final Fight with Final Fight CD (Sega MegaCD) Soundtrack / Sunset Riders and others Arcade Versions with new arranged musics (40 %)
 
 ----------
