@@ -36,9 +36,14 @@ Multi Mix Emulator
 
 © 2018-2026 GECA soft (8 years of development ...)
 
-A Multi Platform Emulator made in C#.
-The goal of this emulator is to emulate several platforms using 100% C# Code by prior.
-Currently it use 70% C# and 30% C++ Code, the goal is to use C# Code everyting it is possible.
+A Multi Platform Emulator made in C#/C++.
+
+1) The first goal of this emulator is to emulate several platforms using 100% C# Code by prior:
+   Currently it use 70% C# and 30% C++ Code, the goal is to use C# Code everyting it is possible.
+   
+3) The second goal: Compatible with Windox XP at least (NET Framework 4.0):
+   The goal is to have maximum compatibility with older operating systems starting from Windows XP
+   and to have in the 32-bit release as many features as possible that are found in the 64-bit version.
 
 Multi Mix Emulator currently emulates several platforms and the objective is to improve systems emulation, features and include new platforms (all possible).
 
@@ -184,6 +189,7 @@ Operating Systems
 -----------------
 
 MS-DOS (90 %) (Executing: NO)
+
 Windows 3 (90 %) (Executing: NO)
 
 --------
@@ -191,16 +197,57 @@ Engines
 -------
 
 AGI (95 %) (Executing Games: YES)
+
 DOOM (50 %) (Executing Games: NO)
+
 SCUMM (70 %) (Executing Games: NO)
 
 
 
+-----------------------------
+Multi Mix Emulator References
+-----------------------------
+
+Logically, this project would not be possible if the following projects had not existed:
+
+- Aeon (github.com/gregdivis/Aeon)
+- AtariiEmu (github.com/rasengangsta/AtariiEmu)
+- BizHawk (github.com/TASVideos/BizHawk)
+- Casper (github.com/arlorean/casper)
+- Chip8Emulator (github.com/dpchamps/chip8Emulator)
+- CPvC (buildkite.com/cpvc)
+- cor64 (github.com/bryanperris/cor64)
+- CSharpTo2600 (github.com/Yttrmin/CSharpTo2600)
+- cspspemu (soywiz.github.com/cspspemu)
+- DotN64 (nabile.duckdns.org/DotN64)
+- e8080 - An Intel 8080 emulator
+- Emu-o-Tron (github.com/nickmass/Emu-o-Tron)
+- Emu7800 (github.com/emu7800/emu7800.github.io)
+- Emulator.NES (github.com/Xyene/Emulator.NES)
+- FourDO (github.com/trapexit/4DO)
+- Galaga Emulator (github.com/Justin-Credible/galaga-emulator)
+- GBSharp (github.com/cristiandonosoc/GBSharp)
+- M1 .NET (www.codeproject.com/Tips/646359/M-NET)
+- MAME Project (www.mamedev.org)
+- MAME .NET (www.codeproject.com/Articles/1275365/MAME-NET)
+- MAME CS (mcs.eddiefast.com)
+- MasterFudgeMk2 (github.com/xdanieldzd/MasterFudge)
+- MO5-Emulator (github.com/scemino/MO5-Emulator)
+- NSCUMM (github.com/scemino/nscumm)
+- Oric Explorer (github.com/oric-software/OricExplorer)
+- Pac-Man Emulator (github.com/Justin-Credible/pac-man-emulator)
+- ProjectPSX (github.com/BluestormDNA/ProjectPSX)
+- Sega360
+- SNES.net (github.com/gdkchan/SNES.net)
+- Space Invaders (github.com/hghpublic/Justin-Credible-space-invaders-emulator)
+- TurboSharp (github.com/asterick/TurboSharp)
+- Virtu - Apple II Emulator (github.com/digital-jellyfish/Virtu)
+- XEiJ (stdkmd.net)
+- XNA MAME 0.36
+- Zero Emulator (github.com/ArjunNair/Zero-Emulator)
 
 
-
-
-
+Thanks to ALL for the great work!
 
 
 
