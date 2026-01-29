@@ -41,7 +41,7 @@ A Multi Platform Emulator made in C#/C++.
 1) The first goal of this emulator is to emulate several platforms using 100% C# Code by prior:
    Currently it use 70% C# and 30% C++ Code, the goal is to use C# Code everyting it is possible.
    
-3) The second goal: Compatible with Windox XP at least (NET Framework 4.0):
+3) The second goal: Compatible with Windows XP at least (NET Framework 4.0):
    The goal is to have maximum compatibility with older operating systems starting from Windows XP
    and to have in the 32-bit release as many features as possible that are found in the 64-bit version.
 
