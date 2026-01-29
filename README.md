@@ -1,13 +1,32 @@
------------
-MultiMixEmu
------------
+------------------
+Multi Mix Emulator
+------------------
 
 <p align="center">
   <img src="https://i.imgur.com/xoTUO87.jpg" >
   
-  Multi Mix Emu - Alpha Tests (24-02-21)
+  Multi Mix Emu - Alpha Tests (some debug videos)
+
+  [![Video](https://www.dailymotion.com/thumbnail/video/x9vn7wm)](https://www.dailymotion.com/video/x9vn7wm)
+
+  [![Video](https://www.dailymotion.com/thumbnail/video/x9vbxb6)](https://www.dailymotion.com/video/x9vbxb6)
+
+  [![Video](https://www.dailymotion.com/thumbnail/video/x9htr1m)](https://www.dailymotion.com/video/x9htr1m)
+
+  [![Video](https://www.dailymotion.com/thumbnail/video/x9htr1k)](https://www.dailymotion.com/video/x9htr1k)
+
+  [![Video](https://www.dailymotion.com/thumbnail/video/x8yckvs)](https://www.dailymotion.com/video/x8yckvs)
+
+  [![Video](https://www.dailymotion.com/thumbnail/video/x8yckvm)](https://www.dailymotion.com/video/x8yckvm)
+
+  [![Video](https://www.dailymotion.com/thumbnail/video/x8yckvk)](https://www.dailymotion.com/video/x8yckvk)
+
+  [![Video](https://www.dailymotion.com/thumbnail/video/x8yckvo)](https://www.dailymotion.com/video/x8yckvo)
+
+  [![Video](https://www.dailymotion.com/thumbnail/video/x8yckvq)](https://www.dailymotion.com/video/x8yckvq)
+
+  [![Video](https://www.dailymotion.com/thumbnail/video/x8yc9i0)](https://www.dailymotion.com/video/x8yc9i0)
   
-  [![Multi Mix Emu - Alpha Tests (24-02-21)](https://img.youtube.com/vi/Wpehura0OHc/0.jpg)](https://www.youtube.com/watch?v=Wpehura0OHc)
 </p>
 
 
@@ -15,17 +34,16 @@ Multi Mix Emulator
 
 (Version 1.00) (Not Public Yet)
 
-© 2018-2019 GECA soft.
+© 2018-2026 GECA soft (8 years of development ...)
 
 A Multi Platform Emulator made in C#.
-The goal of this emulator is to emulate several platforms using 100% C# Code.
-Currently it use 90% C# and 10% C++ Code, the goal is translate all to C# Code.
+The goal of this emulator is to emulate several platforms using 100% C# Code by prior.
+Currently it use 70% C# and 30% C++ Code, the goal is to use C# Code everyting it is possible.
 
-Multi Mix Emulator currently emulates several platforms and the objective is to improve systems emulation,
-features and include new platforms.
+Multi Mix Emulator currently emulates several platforms and the objective is to improve systems emulation, features and include new platforms (all possible).
 
-Also the 'Mix' prefix indicates not only try to emulates original platforms, but also add new features to
-original games and other Tools, like an internal Game Music Player.
+Also the 'Mix' prefix indicates not only try to emulates original platforms, but also add new features to original games and other Tools,
+like an internal Game Music Player (similar to Winamp 2.0 also with Filters and 3D equalizers).
 
 --------------------------------------------------------
 'Platforms / Implementation Status' currently supported:
@@ -35,40 +53,73 @@ original games and other Tools, like an internal Game Music Player.
 Arcade:
 -------
 
-Arcade Games (CPS 1 / Namco System 1 / and more than 90 other Arcade Systems) (70 %)
+Arcade Games: C# Core (CPS 1 / CPS 2 / Data East / M72 / M92 / Namco System 1 / NEO GEO / PGM / Taito / Technos / Tehkan and a lot of other Arcade Systems) (70 %)
+Arcade Games: C++ Core --> MAME full implementation core (70 %)
 
-Arcade Music Player (CPS 1 / CPS 2 / Neo Geo / Namco System 1) (90 %)
+Universal Music Player: Arcade and different File formats (CPS 1 / CPS 2 / Data East / M72 / M92 / Namco System 1 / NEO GEO / PGM / Taito) (60 %)
 
 Mix Features:
-Final Fight Arcade Version with Final Fight CD (Sega MegaCD) Soundtrack (40 %)
+Final Fight with Final Fight CD (Sega MegaCD) Soundtrack / Sunset Riders and others Arcade Versions with new arranged musics (40 %)
 
 ----------
 Computers:
 ----------
 
-Amstrad CPC (50 %) (Executing Games: NO)
+Amstrad CPC (50 %) (Executing Games: YES)
+
+Apple I (70 %) (Executing Games: NO)
 
 Apple II (70 %) (Executing Games: NO)
 
-Commodore 64 (50 %) (Executing Games: NO)
+CHIP-8 (90 %) (Executing Games: YES)
+
+Belogic Uzebox (50 %) (Executing Games: NO)
+
+Commodore 64 (50 %) (Executing Games: YES)
+
+Commodore Amiga (80 %) (Executing Games: NO)
+
+Commodore PET (50 %) (Executing Games: NO)
+
+Microbee (20 %) (Executing Games: NO)
+
+MO-5 (40 %) (Executing Games: NO)
+
+MSX (50 %) (Executing Games: NO)
+
+Oric (50 %) (Executing Games: NO)
 
 Sharp X68000 (70 %) (Executing Games: NO)
 
-ZKSpectrum (70 %) (Executing Games: NO)
+Sorcerer (20 %) (Executing Games: NO)
+
+ZKSpectrum (70 %) (Executing Games: YES)
 
 TI83 (70 %) (Executing Games: NO)
+
+TIC80 (70 %) (Executing Games: NO)
+
+TRS-80 (50 %) (Executing Games: NO)
 
 ---------
 Consoles:
 ---------
 
-Atari 7800 (80 %) (Executing Games: NO)
+Atari 2600 (40 %) (Executing Games: NO)
+
+Atari 7800 (95 %) (Executing Games: YES)
  
 Atari Lynx (80 %) (Executing Games: NO)
 
+Atari Jaguar (70 %) (Executing Games: NO)
+
 Intellivision (70 %) (Executing Games: NO)
 
-Colecovision (70 %) (Executing Games: NO)
+Colecovision (70 %) (Executing Games: YES)
+
+Dreamcast (50 %) (Executing Games: NO)
+
+Fairchild Channel-F (50 %) (Executing Games: NO)
   
 Game Boy (80 %) (Executing Games: NO)
 
@@ -76,7 +127,11 @@ Game Boy Color (80 %) (Executing Games: NO)
 
 Game Boy Advance (80 %) (Executing Games: NO)
 
+Game Cube (10 %) (Executing Games: NO)
+
 Game Gear (95 %) (Executing Games: YES)
+
+Magnavox Odissey I & II (50 %) (Executing Games: NO)
 
 Master System (95 %) (Executing Games: YES)
 
@@ -88,6 +143,8 @@ NES (99 %) (Executing Games: YES)
 
 Nintendo 64 (70 %) (Executing Games: NO)
 
+Nintendo DS (50 %) (Executing Games: NO)
+
 PC Engine (90 %) (Executing Games: YES)
 
 PC FX (70 %) (Executing Games: NO)
@@ -96,17 +153,23 @@ SC-3000 (95 %) (Executing Games: YES)
 
 SG-1000 (95 %) (Executing Games: YES)
 
-SNES (95 %) (Executing Games: YES / Too Slow)
+SNES (95 %) (Executing Games: YES)
 
 3DO (90 %) (Executing Games: YES)
 
-Playstation (60 %) (Executing Games: NO)
+Playstation (80 %) (Executing Games: NO)
 
 PSP (70 %) (Executing Games: NO)
 
 Sega Saturn (70 %) (Executing Games: NO)
 
 Magnavox Odyssey (70 %) (Executing Games: NO)
+
+V-Smile (40 %) (Executing Games: NO)
+
+Vectrex (80 %) (Executing Games: NO)
+
+Virtua Boy (80 %) (Executing Games: NO)
 
 Wonderswan (70 %) (Executing Games: NO)
 
@@ -116,7 +179,20 @@ Vectrex (80 %) (Executing Games: NO)
 
 Virtual Boy (80 %) (Executing Games: NO)
 
+-----------------
+Operating Systems
+-----------------
 
+MS-DOS (90 %) (Executing: NO)
+Windows 3 (90 %) (Executing: NO)
+
+--------
+Engines
+-------
+
+AGI (95 %) (Executing Games: YES)
+DOOM (50 %) (Executing Games: NO)
+SCUMM (70 %) (Executing Games: NO)
 
 
 
