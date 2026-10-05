@@ -7,7 +7,7 @@ Multi Mix Emulator
   
   Multi Mix Emu - Alpha Tests (some debug videos)
 
-  [![Video](https://www.dailymotion.com/video/xba2nc6)](https://www.dailymotion.com/video/xba2nc6)
+  [![Video](https://www.dailymotion.com/thumbnail/video/xba2nc6)](https://www.dailymotion.com/video/xba2nc6)  
 
   [![Video](https://www.dailymotion.com/thumbnail/video/xb70832)](https://www.dailymotion.com/video/xb70832)
 
