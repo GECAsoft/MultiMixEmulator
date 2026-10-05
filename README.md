@@ -7,6 +7,24 @@ Multi Mix Emulator
   
   Multi Mix Emu - Alpha Tests (some debug videos)
 
+  [![Video](https://www.dailymotion.com/video/xba2nc6)](https://www.dailymotion.com/video/xba2nc6)
+
+  [![Video](https://www.dailymotion.com/thumbnail/video/xb70832)](https://www.dailymotion.com/video/xb70832)
+
+  [![Video](https://www.dailymotion.com/thumbnail/video/xaoc85q)](https://www.dailymotion.com/video/xaoc85q)
+
+  [![Video](https://www.dailymotion.com/thumbnail/video/xakigia)](https://www.dailymotion.com/video/xakigia)
+
+  [![Video](https://www.dailymotion.com/thumbnail/video/xak058a)](https://www.dailymotion.com/video/xak058a)
+
+  [![Video](https://www.dailymotion.com/thumbnail/video/xajaeda)](https://www.dailymotion.com/video/xajaeda)
+
+  [![Video](https://www.dailymotion.com/thumbnail/video/xabvgyk)](https://www.dailymotion.com/video/xabvgyk)
+
+  [![Video](https://www.dailymotion.com/thumbnail/video/xaba9bs)](https://www.dailymotion.com/video/xaba9bs)
+
+  [![Video](https://www.dailymotion.com/thumbnail/video/xaax398)](https://www.dailymotion.com/video/xaax398)
+
   [![Video](https://www.dailymotion.com/thumbnail/video/x9vn7wm)](https://www.dailymotion.com/video/x9vn7wm)
 
   [![Video](https://www.dailymotion.com/thumbnail/video/x9vbxb6)](https://www.dailymotion.com/video/x9vbxb6)
